@@ -1,0 +1,174 @@
+@font-face{
+ 	font-family: "Signatra";
+ 	src: url(Signatra.otf);
+}
+@font-face{
+ 	font-family: "Breakout";
+ 	src: url(Breakout.ttf);
+}
+
+.html{
+	height: 40px;
+	width: 320px;
+	position: relative;
+	top:90px;
+	background:rgba(173, 216, 230,14);
+	border-radius: 5px;
+	text-align: center;
+	left:190px;
+	font-family:Signatra;
+}	
+.info1{
+	height: 190px;
+	width: 520px;
+	position: relative;
+	top:140px;
+	text-align: center;
+	left:100px;
+	color:black;
+	border-radius: 5px;
+	background:rgba(173, 216, 230,14);
+	font-size:20px;
+	font-family:Signatra;
+
+}
+.mar{
+	height: 40px;
+	width: 320px;
+	background:;
+	position: relative;
+	top: 170px;
+	background:rgba(173, 216, 230,14);
+	border-radius: 5px;
+	text-align: center;
+	left: 190px;
+	font-family:Signatra;
+}
+.infor{
+	height: 150px;
+	width: 520px;
+	position: relative;
+	top: 190px;
+	text-align: center;
+	left: 100px;
+	color: black;
+	border-radius: 5px;
+	background:rgba(173, 216, 230,14);
+	font-size:20px;
+	font-family:Signatra;
+}
+.atri{
+	height: 40px;
+	width: 320px;
+	position: relative;
+	top: 230px;
+	background:rgba(173, 216, 230,14);
+	border-radius: 5px;
+	text-align: center;
+	left: 190px;
+	font-family:Signatra;
+}	
+.informa{
+	height: 200px;
+	width: 520px;
+	position: relative;
+	top: 250px;
+	text-align: center;
+	left: 100px;
+	color: black;
+	border-radius: 5px;
+	background:rgba(173, 216, 230,14);
+	font-size:20px;
+	font-family:Signatra;
+}
+.eti{
+	height: 40px;
+	width: 320px;
+	background:;
+	position: relative;
+    top: 290px;
+	background:rgba(173, 216, 230,14);
+	border-radius: 5px;
+	text-align: center;
+	left: 190px;
+	font-family:Signatra;
+}
+.informaci{
+	height: 120px;
+	width: 520px;
+	position: relative;
+	top: 330px;
+	text-align: center;
+	left: 100px;
+	color: black;
+	border-radius: 5px;
+	background:rgba(173, 216, 230,14);
+	font-size:20px;
+	font-family:Signatra;
+}
+
+.submenu a{
+	
+	padding: 5px;
+	width: 80px;
+	height: 10px;
+	color: white;
+	text-decoration: none;
+}
+.submenu > li{
+	width: 100px;
+	height: 44px;
+	left: 68px;
+	text-align: center;
+	background:rgba(173, 216, 230,14);
+	border: 1px solid white;
+}
+.foo footer{
+	width: 104.8%;
+	height: 90px;
+	top: -758px;
+	left: -40px;
+	font-size: 18px;
+	position:relative;
+	background:rgba(0,0,0,0.2);
+	padding-top:20px; 
+	text-align: center;
+	color: white;
+	font-family:Signatra;
+}
+.foto img{
+	width: 330px;
+	height: 340px;
+	left: 860px;
+	top: -780px;
+	margin-left: -20px;
+	position: relative;
+	margin-top: 5px;
+	}
+	.foto1 img{
+	width: 270px;
+	height: 250px;
+	left: 880px;
+	top: -780px;
+	margin-left: -20px;
+	position: relative;
+	margin-top: 5px;
+	}
+	.foto2 img{
+	width: 295px;
+	height: 250px;
+	left: 880px;
+	top: -780px;
+	margin-left: -20px;
+	position: relative;
+	margin-top: 5px;
+	}
+	.foto3 img{
+	width: 310px;
+	height: 250px;
+	left: 880px;
+	top: -780px;
+	margin-left: -20px;
+	position: relative;
+	margin-top: 5px;
+	}
